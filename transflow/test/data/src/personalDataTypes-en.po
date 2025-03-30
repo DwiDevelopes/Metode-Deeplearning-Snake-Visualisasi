@@ -1,0 +1,318 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+# civil_status
+msgid "[0].label"
+msgstr "Civil status"
+
+# fullname
+msgid "[0].types[0].label"
+msgstr "Full name"
+
+# firstname
+msgid "[0].types[1].label"
+msgstr "First name"
+
+# lastname
+msgid "[0].types[2].label"
+msgstr "Last name"
+
+# pseudonym
+msgid "[0].types[3].label"
+msgstr "Nickname"
+
+# title
+msgid "[0].types[4].label"
+msgstr "Title"
+
+# birthday
+msgid "[0].types[5].label"
+msgstr "Birthday"
+
+# birthdate
+msgid "[0].types[6].label"
+msgstr "Birth date"
+
+# age
+msgid "[0].types[7].label"
+msgstr "Age"
+
+# parents_name
+msgid "[0].types[8].label"
+msgstr "Parents name"
+
+# nationality
+msgid "[0].types[9].label"
+msgstr "Nationality"
+
+# country_of_birth
+msgid "[0].types[10].label"
+msgstr "Country of birth"
+
+# place_of_birth
+msgid "[0].types[11].label"
+msgstr "Place of birth"
+
+# marital_status
+msgid "[0].types[12].label"
+msgstr "Marital status"
+
+# sex
+msgid "[0].types[13].label"
+msgstr "Gender"
+
+# mensurations
+msgid "[1].label"
+msgstr "Mensurations"
+
+# silhouette
+msgid "[1].types[0].label"
+msgstr "Silhouette"
+
+# height
+msgid "[1].types[1].label"
+msgstr "Height"
+
+# weight
+msgid "[1].types[2].label"
+msgstr "Weight"
+
+# size
+msgid "[1].types[3].label"
+msgstr "Size"
+
+# footsize
+msgid "[1].types[4].label"
+msgstr "Footsize"
+
+# skin_color
+msgid "[1].types[5].label"
+msgstr "Skin tone"
+
+# skin_type
+msgid "[1].types[6].label"
+msgstr "Skin type"
+
+# hair_type
+msgid "[1].types[7].label"
+msgstr "Hair type"
+
+# hair_color
+msgid "[1].types[8].label"
+msgstr "Hair color"
+
+# eyes
+msgid "[1].types[9].label"
+msgstr "Eyes color"
+
+# eye_correction
+msgid "[1].types[10].label"
+msgstr "Eye correction"
+
+# ID
+msgid "[2].label"
+msgstr "ID"
+
+# social_security_id
+msgid "[2].types[0].label"
+msgstr "Social security ID"
+
+# driver_licence_id
+msgid "[2].types[1].label"
+msgstr "Driver's licence ID"
+
+# identity_number
+msgid "[2].types[2].label"
+msgstr "Identity number"
+
+# passport_number
+msgid "[2].types[3].label"
+msgstr "Passport number"
+
+# student_number
+msgid "[2].types[4].label"
+msgstr "Student number"
+
+# car_registration_plate
+msgid "[2].types[5].label"
+msgstr "Car registration plate"
+
+# bank_account_number
+msgid "[2].types[6].label"
+msgstr "Bank account number"
+
+# other_id
+msgid "[2].types[7].label"
+msgstr "Other ID"
+
+# online_ID
+msgid "[3].label"
+msgstr "Online ID"
+
+# google
+msgid "[3].types[0].label"
+msgstr "Google"
+
+# yahoo
+msgid "[3].types[1].label"
+msgstr "Yahoo"
+
+# facebook
+msgid "[3].types[2].label"
+msgstr "Facebook"
+
+# linkedin
+msgid "[3].types[3].label"
+msgstr "Linkedin"
+
+# other_platform_id
+msgid "[3].types[4].label"
+msgstr "Other online platform ID"
+
+# social_login_identifier
+msgid "[3].types[5].label"
+msgstr "Social Login"
+
+# contact_information
+msgid "[4].label"
+msgstr "Contact information"
+
+# phone_number
+msgid "[4].types[0].label"
+msgstr "Phone number"
+
+# email
+msgid "[4].types[1].label"
+msgstr "Email address"
+
+# professional_email
+msgid "[4].types[2].label"
+msgstr "Professional email address"
+
+# mobile
+msgid "[4].types[3].label"
+msgstr "Mobile"
+
+# fax
+msgid "[4].types[4].label"
+msgstr "Fax"
+
+# street_address
+msgid "[4].types[5].label"
+msgstr "Street address"
+
+# business_address
+msgid "[4].types[6].label"
+msgstr "Business address"
+
+# city
+msgid "[4].types[7].label"
+msgstr "City"
+
+# postal_code
+msgid "[4].types[8].label"
+msgstr "Postcode"
+
+# province
+msgid "[4].types[9].label"
+msgstr "Region"
+
+# country
+msgid "[4].types[10].label"
+msgstr "Country"
+
+# geoposition
+msgid "[4].types[11].label"
+msgstr "Geolocation (Lat/Lon)"
+
+# usage_history
+msgid "[5].label"
+msgstr "Usage history"
+
+# chat_log
+msgid "[5].types[0].label"
+msgstr "Chat log"
+
+# browsing_history
+msgid "[5].types[1].label"
+msgstr "Browsing history"
+
+# purchase_history
+msgid "[5].types[2].label"
+msgstr "Purchase history"
+
+# phone_call_log
+msgid "[5].types[3].label"
+msgstr "Phone call log"
+
+# business
+msgid "[6].label"
+msgstr "Professional information"
+
+# job_position
+msgid "[6].types[0].label"
+msgstr "Job position"
+
+# company_name
+msgid "[6].types[1].label"
+msgstr "Company name"
+
+# job_history
+msgid "[6].types[2].label"
+msgstr "Job history"
+
+# company_identification_number
+msgid "[6].types[3].label"
+msgstr "Company Identification Number"
+
+# company_vat_number
+msgid "[6].types[4].label"
+msgstr "VAT Number"
+
+# interest
+msgid "[7].label"
+msgstr "Interests"
+
+# hobbies
+msgid "[7].types[0].label"
+msgstr "Hobbies"
+
+# intelligence
+msgid "[7].types[1].label"
+msgstr "Intelligence"
+
+# sports
+msgid "[7].types[2].label"
+msgstr "Sport"
+
+# arts
+msgid "[7].types[3].label"
+msgstr "Arts"
+
+# technical_information
+msgid "[8].label"
+msgstr "Technical informations"
+
+# ip_address
+msgid "[8].types[0].label"
+msgstr "IP Address"
+
+# web_browser
+msgid "[8].types[1].label"
+msgstr "Web browser"
+
+# operating_system
+msgid "[8].types[2].label"
+msgstr "Operating System"
+
+# image
+msgid "[9].label"
+msgstr "Image"
+
+# photo
+msgid "[9].types[0].label"
+msgstr "Picture"
+
+# video
+msgid "[9].types[1].label"
+msgstr "Video"

@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+
+'use strict';
+
+const path = require('path');
+const fse = require('fs-extra');
+const config = path.join(process.cwd(), 'transflow.config.js');
+const transflow = require('../src/transflow');
+if(fse.pathExistsSync(config)){
+    const options = require(config);
+    transflow(options);
+}

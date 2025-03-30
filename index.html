@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake AI - Visualisasi Pelatihan</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="css/transflow.css">
+    <script src="js/transflow.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Snake AI - Visualisasi Pelatihan</h1>
+        
+        <div class="controls">
+            <button id="start-training">▶ Mulai Pelatihan</button>
+            <button id="ai-play">▶ Let AI Play</button>
+            <button id="stop-training" disabled>■ Hentikan</button>
+        </div>
+        
+        <div id="status">Status: Siap memulai pelatihan...</div>
+        
+        <div id="model-summary">Model summary akan muncul di sini...</div>
+        
+        <div id="game-container"></div>
+        
+        <div class="stats">
+            <div class="stat-item">
+                <div class="stat-value" id="score">0</div>
+                <div class="stat-label">Skor</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="length">1</div>
+                <div class="stat-label">Panjang</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="episode">0</div>
+                <div class="stat-label">Episode</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="epsilon">1.0</div>
+                <div class="stat-label">Epsilon</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
